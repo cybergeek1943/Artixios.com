@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /assets
+Disallow: /misc
+Disallow: /misc/webgl_error.html
+Disallow: /README.md
+Disallow: /.github
+
+Sitemap: https://www.artixios.com/sitemap.xml
